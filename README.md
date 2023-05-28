@@ -3,6 +3,6 @@ Position - Java Development Intern
 
 Allocated Project -
 
-1)Library management system
+1) Library management system
 
-2)Virtual private network
+2) Virtual private network
